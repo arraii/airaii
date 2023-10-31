@@ -1,0 +1,27 @@
+
+.boxinduk {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: blue; /*nanti warna dihilangkan */
+  width:1000px; 
+}
+.box {
+  width: 50%;
+  margin: 10px;
+  text-align:justify;
+  font-size: 12px;
+  font-family: verdana;
+  padding:20px;
+   background-color: orange;/*nanti warna dihilangkan */
+}
+.boxindukdua {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: rgb(255, 0, 0);/*nanti warna dihilangkan */
+  width:1000px; 
+   background-color:#e1e1e1;
+}
+h4{
+text-align: center ;
+color:red;
+}

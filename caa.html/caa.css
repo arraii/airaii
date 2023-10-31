@@ -1,0 +1,80 @@
+header{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(255, 255, 255); /*nanti warna dihilangkan */
+    width:1000px; 
+  }
+  
+  .logo {
+    margin:20px; 
+  }
+  
+  .menu {
+    background-color: rgb(255, 255, 255); /*nanti warna dihilangkan */
+    padding:70px;
+    word-spacing: 1cm ;
+    font-size: 14px;
+    color:rgb(0, 0, 0);
+    font-family: verdana ;
+    margin-left:40px;
+  }
+  
+  .banner    { 
+background-image: url(SAA_07.jpg); 
+ background-repeat: no-repeat;
+background-position: left top;
+height: 591px;
+ width:1000px;
+ margin: 20px 0;
+  
+ }
+  .boxinduk {
+    display: flex;
+    flex-wrap: nowrap;
+    width:1000px; 
+  }
+  .box {
+    width: 50%;
+    margin: 10px;
+    text-align:justify;
+    font-size: 12px;
+    font-family: verdana;
+    padding:20px;
+  }
+  .boxindukdua {
+    display: flex;
+    flex-wrap: nowrap;
+    width:1000px; 
+     background-color:#ffffff;
+  }
+  h4{
+  text-align: center ;
+  color:red;
+  }
+  
+.boxindukfoot { 
+    display: flex;
+    flex-wrap: nowrap;
+    width:100%; 
+  }
+  
+  .boxfoot {
+    width: 50%;
+    margin: 10px;
+    text-align:justify;
+    font-size: 12px;
+    font-family: verdana;
+    padding:20px;
+  }  
+
+  footer{
+    background-color: #f80909; 
+    width:1000px; 
+  }
+  .menufooter {
+    padding:10px;
+    font-size: 10px;
+    color:white;
+    font-family: verdana ;
+    margin-left:40px;
+  }  
